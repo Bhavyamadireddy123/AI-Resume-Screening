@@ -29,21 +29,24 @@ By leveraging TF-IDF (Term Frequency-Inverse Document Frequency) and cosine simi
 
 # How to Use the Application
 1️. Enter the Job Description in the text box.
+
 2️. Upload Resumes (PDF format only).
+
 3️. Click "Rank Resumes" to initiate the screening process.
+
 4️. View the Ranked List of Candidates with similarity scores.
 
 The higher the similarity score, the better the resume matches the job description.
 
-Technologies Used
+# Technologies Used
 
-Python 
-Streamlit
-Pandas 
-Scikit-learn
-Spacy 
-PyPDF2 
-TF-IDF 
+Python, 
+Streamlit, 
+Pandas, 
+Scikit-learn, 
+Spacy,
+PyPDF2, 
+TF-IDF,
 Cosine Similarity 
 
 # Methodology
@@ -68,6 +71,10 @@ Returns a sorted list of resumes, ranked by relevance.
 
 # Results
 <img width="2224" height="1034" alt="Screenshot 2026-05-08 113802" src="https://github.com/user-attachments/assets/b5be5019-374a-4438-a330-94a246826a7f" />
+
+
+
+<img width="2230" height="1082" alt="Screenshot 2026-05-08 113839" src="https://github.com/user-attachments/assets/2fe2cd00-5593-4ee5-a486-a2e3a02dd64c" />
 
 # Future Improvements
 
